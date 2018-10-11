@@ -10,6 +10,27 @@
   font-weight: bold;
 }
 
+.c2 {
+  background-color: #E1F8FF;
+  border: 1px solid black;
+  padding: 5px;
+}
+
+.p2 {
+  background-color: #8FC5FF;
+  border: 1px solid black;
+  font-weight: bold;
+}
+
+.pic-head {
+  background-color: #C585E8;
+  border: 1px solid black;
+}
+
+.pic-body {
+  background-color: #D6BAE8;
+}
+
 #penny {
   float: left;
 }
@@ -17,6 +38,19 @@
 #pond {
   float: right;
   capt
+}
+
+#Romer {
+  float: right;
+}
+
+#Bashir {
+  float: right;
+}
+
+#Crown {
+  float: left;
+  margin-right: 10px;
 }
 
  div.image {
