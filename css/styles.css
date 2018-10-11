@@ -1,0 +1,24 @@
+.container {
+  background-color: #E7FFF1;
+  border: 1px solid black;
+  padding: 5px;
+}
+
+.panel-heading {
+  background-color: #CAFFD6;
+  border: 1px solid black;
+  font-weight: bold;
+}
+
+#penny {
+  float: left;
+}
+
+#pond {
+  float: right;
+  capt
+}
+
+ div.image {
+   margin: 1em 0;
+}
